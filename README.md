@@ -25,6 +25,12 @@ Codex 官方定义的 Skill 是一个至少含有 `SKILL.md` 的目录，`SKILL.
 
 `docs/安装与使用.md`
 
+## 固定下载链接
+
+- 仓库主页：`https://github.com/roomingog-afk/workmate-codex-skills`
+- 当前预发布：`https://github.com/roomingog-afk/workmate-codex-skills/releases/tag/v0.1.0-mit-snapshot`
+- 当前版本 ZIP：`https://github.com/roomingog-afk/workmate-codex-skills/archive/refs/tags/v0.1.0-mit-snapshot.zip`
+
 ## 发布原则
 
 - 保留第三方版权、许可证、来源和提交版本。
